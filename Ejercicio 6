@@ -14,9 +14,9 @@ class Program
         // Lista con las asignaturas iniciales
         List<string> asignaturas = new List<string>
         {
-            "Matemáticas",
-            "Física",
-            "Química",
+            "Matematicas",
+            "Fisica",
+            "Quimica",
             "Historia",
             "Lengua"
         };
