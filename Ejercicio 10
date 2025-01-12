@@ -12,7 +12,7 @@ class Program
     static void Main()
     {
         // Crea un arreglo de precios
-        double[] precios = { 50, 75, 46, 22, 80, 65, 8 };
+        double[] precios = { 50, 75, 46, 22, 80, 65, 9 };
 
         // Encuentra el menor precio usando LINQ
         double menor = precios.Min();
