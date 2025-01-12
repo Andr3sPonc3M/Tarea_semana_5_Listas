@@ -2,7 +2,7 @@
 
 // Listas 
 
-// Ejercicio 8: Verificar si una palabra es un palíndromo
+// Ejercicio 8: Verificar si una palabra es un palíndromo.
 
 using System; // Importa el espacio de nombres para funciones básicas
 using System.Linq; // Proporciona funciones para manipular colecciones y cadenas
