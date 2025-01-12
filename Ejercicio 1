@@ -2,7 +2,6 @@
 
 // Listas 
 
-
 // Ejercicio 1: Almacenar y mostrar asignaturas de un curso
 
 using System; // Importa el espacio de nombres necesario para usar funciones básicas de C#
@@ -15,9 +14,9 @@ class Program
         // Crea una lista de asignaturas y las inicializa con valores
         List<string> asignaturas = new List<string>
         {
-            "Matematicas",
-            "Fisica",
-            "Quimica",
+            "Matemáticas",
+            "Física",
+            "Química",
             "Historia",
             "Lengua"
         };
