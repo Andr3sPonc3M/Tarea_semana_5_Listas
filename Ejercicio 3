@@ -24,7 +24,7 @@ class Program
         // Crea un diccionario para almacenar las notas de cada asignatura
         Dictionary<string, double> notas = new Dictionary<string, double>();
 
-        // Itera sobre cada asignatura en la lista
+        // Itera sobre cada asignatura de la lista
         foreach (string asignatura in asignaturas)
         {
             Console.Write($"Introduce la nota de {asignatura}: "); // Solicita la nota
